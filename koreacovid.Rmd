@@ -50,6 +50,13 @@ When plotting the graphical results, I observed that the number of people alive 
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+
 
 ## Inferential results 
 
