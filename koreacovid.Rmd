@@ -70,3 +70,5 @@ When observing the inferential results, I found out that the odds of men to die 
 
 ## Conclusions
 
+The analysis of the South Korean COVID-19 patient data from January to May 2020 shows a clear association between sex and mortality due to COVID-19. Males had a significantly higher risk of dying from the disease compared to females. Specifically, men were about 2.3 times more likely to die than women, as supported by both graphical and numerical evidence. The chi-square and Fisher’s exact tests confirm this difference is statistically significant (p-value < 0.001), indicating that the chance of dying from COVID-19 is not independent of sex. These findings highlight important sex-related differences in COVID-19 outcomes that may be driven by biological, behavioral, or social factors. Further investigation into these factors could provide valuable insights to improve targeted interventions and healthcare strategies.
+
